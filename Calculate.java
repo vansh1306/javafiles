@@ -1,4 +1,4 @@
-importjavautilScanner;
+import java.util.Scanner;
 public class Calculate {
     int[] arr;
     int comparisons = 0;
