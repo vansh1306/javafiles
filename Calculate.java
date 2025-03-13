@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Calculate {
+public class Calculat e {
     int[] arr;
     int comparisons = 0;
     public Calculate(int[] arr) {
